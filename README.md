@@ -6,7 +6,5 @@ As I'm trying to practice some Python coding in order to get into Data Science, 
 
 Additionally, maintaning and updating this repository is a way for me put into practice my knowledge of command line (bash), Git and Github.
 
-This repository will keep all challenges and off-platform projects from [Codecademy Learn Python Course](https://www.codecademy.com/learn/learn-python-3).
-
-"Praise the sun!"
+> "Praise the sun!" (Solaire of Astora)
 ![Solaire of Astora](https://wallpapercave.com/wp/wp7134291.jpg)
